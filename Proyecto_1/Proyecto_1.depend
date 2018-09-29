@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1537905366 source:/home/alumno/Proyecto_1/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1538102161 source:/home/alumno/Proyecto_1/TLista.c
+	"TLista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1538097059 /home/alumno/Proyecto_1/TLista.h
+
